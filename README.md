@@ -5,6 +5,7 @@
 - Sección: 002A - 204
 - Carrera: Analista Programador Computacional
 - Institución: Duoc UC Online
+- Fecha de entrega 23-11-2026
 
 ## Descripción
 Aplicación de consola para administrar personas vinculadas a la agencia turística Llanquihue Tour. Carga registros desde un archivo CSV a una colección `ArrayList`, evita identificadores duplicados y permite listar, buscar y filtrar personas, clientes, empleados y guías turísticos.
